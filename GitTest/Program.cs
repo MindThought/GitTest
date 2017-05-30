@@ -12,6 +12,7 @@ namespace GitTest
         {
             UI ui = new UI();
             ui.Hello();
+            Console.ReadKey();
         }
     }
 }
